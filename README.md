@@ -1,0 +1,1 @@
+mindmotion-ai_study_companion_app
